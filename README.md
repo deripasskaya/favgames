@@ -1,7 +1,7 @@
 # favgames
 
-## Packman
-![Packman logo](/Packman.jpg)
+## Pacman
+![Pacman logo](/Pacman.jpg)
 ## Plague Inc
 ![Plague Inc logo](/PlagueInc.jpg)
 ## Garden Scapes
